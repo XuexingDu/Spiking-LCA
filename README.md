@@ -1,4 +1,4 @@
-# Hodgkin-Huxley Based Model for C.elegans Body Wall Muscle Cell 
+# A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems 
 
 Code for paper [**A generalized Spiking Locally Competitive Algorithm for Multiple Optimization Proble **](https://arxiv.org/abs/2407.03930).
 
